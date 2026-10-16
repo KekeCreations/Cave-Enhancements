@@ -1,1 +1,4 @@
-// 1.20.1	2026-10-16T07:42:40.2203295	Cave Enhancements/Model Definitions
+// 1.20.1	2026-10-16T08:07:48.6358551	Cave Enhancements/Model Definitions
+ce482886ec7c9fe1f33a8715222a8d910999a16b assets\cave_enhancements\blockstates\goop_block.json
+11134f259f332cfec52664c5d12a0e1099f16329 assets\cave_enhancements\models\item\goop_block.json
+b94cb6152693c9d64860bcecaa20f122e9d9ee6b assets\cave_enhancements\models\block\goop_block.json

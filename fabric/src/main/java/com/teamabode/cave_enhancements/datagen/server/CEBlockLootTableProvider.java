@@ -1,5 +1,6 @@
 package com.teamabode.cave_enhancements.datagen.server;
 
+import com.teamabode.cave_enhancements.core.registry.CEBlocks;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricBlockLootTableProvider;
 
@@ -15,6 +16,7 @@ public class CEBlockLootTableProvider extends FabricBlockLootTableProvider {
     }
 
     private void goop() {
+        dropSelf(CEBlocks.GOOP_BLOCK.get());
 
     }
 }

@@ -46,3 +46,8 @@ loom {
         }
     }
 }
+
+processResources {
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+    from project(":common").sourceSets.main.resources
+}
