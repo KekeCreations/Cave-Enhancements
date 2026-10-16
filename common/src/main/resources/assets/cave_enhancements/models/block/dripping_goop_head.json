@@ -1,7 +1,0 @@
-{
-  "ambientocclusion": false,
-  "parent": "minecraft:block/cross",
-  "textures": {
-    "cross": "cave_enhancements:block/dripping_goop_head"
-  }
-}

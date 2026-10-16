@@ -1,8 +1,0 @@
-{
-  "parent": "cave_enhancements:block/template_receiver_powered",
-  "textures": {
-    "particle": "block/exposed_copper",
-    "top": "cave_enhancements:block/exposed_redstone_receiver_waiting",
-    "side": "cave_enhancements:block/exposed_redstone_receiver_side"
-  }
-}

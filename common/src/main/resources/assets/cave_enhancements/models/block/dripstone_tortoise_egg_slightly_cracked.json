@@ -1,6 +1,0 @@
-{
-    "parent": "cave_enhancements:block/template_dripstone_tortoise_egg",
-    "textures": {
-        "all": "cave_enhancements:block/dripstone_tortoise_egg_slightly_cracked"
-    }
-}

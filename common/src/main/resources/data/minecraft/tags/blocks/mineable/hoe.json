@@ -1,8 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "cave_enhancements:goop_block",
-    "cave_enhancements:goop_trap",
-    "cave_enhancements:volatile_goop"
-  ]
-}

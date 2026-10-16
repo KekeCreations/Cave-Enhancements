@@ -1,6 +1,0 @@
-{
-  "variants": {
-    "hanging=true": { "model": "cave_enhancements:block/dripping_goop_head" },
-    "hanging=false": { "model":  "cave_enhancements:block/dripping_goop_body"}
-  }
-}
